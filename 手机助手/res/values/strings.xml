@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手机助手</string>
+    <string name="title_activity_dcdt">订餐电话</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_dcdh">订餐电话</string>
+    <string name="title_activity_ggfw">公共服务</string>
+    <string name="title_activity_yys">运营商</string>
+    <string name="title_activity_kdfw">快递服务</string>
+    <string name="title_activity_jpjd">机票酒店</string>
+    <string name="title_activity_yhzq">银行证券</string>
+    <string name="title_activity_bxfw">保险服务</string>
+    <string name="title_activity_ppsh">品牌售后</string>
+    <string name="title_activity_txdqlist">列表</string>
+    <string name="title_activity_softcontent">软件管理</string>
+
+</resources>
